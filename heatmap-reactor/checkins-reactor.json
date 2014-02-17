@@ -1,0 +1,11 @@
+{
+	"address": "default-address",
+    "broker.list": "localhost:9092",
+    "kafka-topic": "checkinsTopic",
+    "kafka-partition": "0",
+    "request.required.acks": "1",
+    "serializer.class": "kafka.serializer.StringEncoder",
+    
+    "httpServerHost"	: "localhost",
+    "httpServerPort"	: 8090
+}

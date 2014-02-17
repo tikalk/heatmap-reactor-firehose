@@ -1,0 +1,10 @@
+{
+    "address": "my_redis_address",
+    "host": "localhost",
+    "port": 6379,
+    
+    "maxAddressSeqValue" : 47000,
+    "httpServerHost"	: "localhost",
+    "httpServerPort"	: 8090,
+    "httpIntervalToSend"	: 200
+}
